@@ -1,6 +1,9 @@
 name: generate animation
 
 on:
+  push:
+    branches:
+      - main
   # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
