@@ -1,5 +1,14 @@
 # 👋 Hi there! Rafael Avella Here!!!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with Pipeline_
+
+
 I'm a seasoned **DevSecOps and Site Reliability Engineer (SRE)** with over 5 years of experience in automating, securing, and maintaining robust infrastructure systems. My passion lies in bridging the gap between development and operations, ensuring seamless integration and continuous delivery of high-quality software.
 
 ## 🔧 What I Do:
