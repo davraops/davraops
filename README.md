@@ -30,7 +30,13 @@ I am always on the lookout for new challenges and opportunities to apply my skil
 For more information, please visit my consulting page: [Avella Consulting](http://avellaconsulting.com)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated daily using Github Actions_
 ## Experience
 
 ### DevSecOps / SRE Contractor
@@ -108,10 +114,4 @@ For more information, please visit my consulting page: [Avella Consulting](http:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
-</picture>
 
-_generated with Pipeline_
