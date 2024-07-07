@@ -20,8 +20,8 @@ I'm a seasoned **DevSecOps and Site Reliability Engineer (SRE)** with over 5 yea
 
 ## 🌟 Professional Highlights:
 - Spearheaded DevSecOps transformations, significantly reducing vulnerabilities and enhancing security posture.
-- Developed and implemented SRE best practices that improved system reliability by 30%.
-- Automated deployment pipelines, reducing deployment time by 50% and minimizing human errors.
+- Developed and implemented SRE best practices that improved system reliability.
+- Automated deployment pipelines, reducing deployment times and minimizing human errors.
 - Led successful projects in high-pressure environments for renowned organizations like Adidas and Perficient.
 
 ## 🔍 What I'm Looking For:
