@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
+
 # 👋 Hi there! Rafael Avella Here!!!
 
 I'm a seasoned **DevSecOps and Site Reliability Engineer (SRE)** with over 5 years of experience in automating, securing, and maintaining robust infrastructure systems. My passion lies in bridging the gap between development and operations, ensuring seamless integration and continuous delivery of high-quality software.
@@ -115,5 +117,5 @@ _generated daily using Github Actions_
 - **Database:** SQL, ElasticSearch, Solr, Lucene
 
 ---
-<a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
+
 
