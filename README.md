@@ -29,8 +29,7 @@ I am always on the lookout for new challenges and opportunities to apply my skil
 
 For more information, please visit my consulting page: [Avella Consulting](http://avellaconsulting.com)
 
----
-<a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake-dark.svg">
@@ -116,5 +115,5 @@ _generated daily using Github Actions_
 - **Database:** SQL, ElasticSearch, Solr, Lucene
 
 ---
-
+<a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
 
