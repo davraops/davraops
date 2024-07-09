@@ -117,3 +117,8 @@ _generated daily using Github Actions_
 ---
 <a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
 
+## Portfolio
+
+Feel free to look at some demo repositories here:
+
+1. [DevSecOps/SRE Portfolio](https://github.com/davraops/devsecops-portfolio)
