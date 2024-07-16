@@ -37,7 +37,7 @@ For more information, please visit my consulting page: [Avella Consulting](http:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated daily using Github Actions_
+_Contribution Snake Game - generated daily using Github Actions_
 ---
 ## Experience
 
