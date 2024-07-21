@@ -117,7 +117,7 @@ _Contribution Snake Game - generated daily using Github Actions_
 ---
 <a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
 ---
-Admin and commenter of the DevOps Guild Squad at Daily.dev - 
+Admin and publisher of the DevOps Guild Squad at Daily.dev - 
 Join our squad! - 
 https://app.daily.dev/squads/devopsguild
 ## Portfolio
