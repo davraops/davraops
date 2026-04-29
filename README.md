@@ -1,6 +1,6 @@
 # 👋 Hi there! Rafael Avella here!
 
-I'm a seasoned **DevSecOps and Site Reliability Engineer (SRE)** with over 5 years of experience in automating, securing, and maintaining robust infrastructure systems. My passion lies in bridging the gap between development and operations, ensuring seamless integration and continuous delivery of high-quality software.
+I'm a seasoned **DevSecOps and Site Reliability Engineer (SRE)** with over 7 years of experience in automating, securing, and maintaining robust infrastructure systems. My passion lies in bridging the gap between development and operations, ensuring seamless integration and continuous delivery of high-quality software.
 
 ## 🔧 What I Do:
 - **DevSecOps:** Seamlessly integrating security practices within the DevOps pipeline to ensure secure, efficient, and reliable code delivery and deployment.
