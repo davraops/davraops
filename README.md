@@ -49,6 +49,19 @@ Spanish (native) · English (fluent) · French (B2). Mechatronics, Universidad N
 
 ---
 
+<a href="https://app.daily.dev/davraops"><img src="https://api.daily.dev/devcards/v2/u8jhwSG5qzq3e94WlmUFU.png?type=wide&r=d08" width="652" alt="Rafael Avella's Dev Card"/></a>
+
+Admin and publisher of the DevOps Guild Squad at Daily.dev.
+Join our squad: https://app.daily.dev/squads/devopsguild
+
+## Portfolio
+
+Feel free to look at some demo repositories here:
+
+1. [DevSecOps/SRE Portfolio](https://github.com/davraops/devsecops-portfolio)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davraops/davraops/output/github-contribution-grid-snake.svg">
